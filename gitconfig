@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emily_millard@live.co.uk
+	name = Emily Millard
